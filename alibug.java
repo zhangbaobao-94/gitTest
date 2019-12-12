@@ -4,5 +4,7 @@ public class alibug{
 		
 		String s = "哈哈";
 		
+		String s = "哈哈";
+		
 	}
 }
